@@ -1,0 +1,22 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .gallery {
+      margin-bottom: 40px;
+    }
+
+    .gallery img {
+      margin: 5px;
+    }
+
+   .medium img {
+      width: 150px;
+    }
+
+    .large img {
+      width: 200px;
+    }
+  </style>
